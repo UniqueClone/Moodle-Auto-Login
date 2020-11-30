@@ -1,0 +1,1 @@
+alert("Moodle Plugin Working")

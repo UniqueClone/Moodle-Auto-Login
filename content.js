@@ -1,0 +1,1 @@
+window.open("https://able.moodle.maynoothuniversity.ie/auth/oidc/", "_self");
