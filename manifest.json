@@ -5,7 +5,7 @@
 "version": "1.0",
 "content_scripts":[
     {
-      "matches":["https://able.moodle.maynoothuniversity.ie/*"],
+      "matches":["https://moodle.maynoothuniversity.ie/*"],
 	  "css": ["styles.css"],
       "js": ["content.js"]
     }
